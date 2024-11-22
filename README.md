@@ -1,4 +1,4 @@
-# SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
+# EX-10-SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
 **AIM:**
 
@@ -33,9 +33,9 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 
 
-Developed by:Javith farkhan S.
+Developed by:KERSOAN P
 
-RegisterNumber:212221240017 */
+RegisterNumber:212221230050 */
 ```
 module EXP10(clk, sin, q);
 input clk;
